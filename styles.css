@@ -1,0 +1,20 @@
+body {
+    text-align: center;
+    color:yellow;
+    background-color: #cc00ff;
+}
+
+img {
+    height: 300px;
+}
+
+.images {
+    margin-top: 10px;
+}
+
+input {
+    width: 130px;
+}
+.open{
+    height:200px;
+}
